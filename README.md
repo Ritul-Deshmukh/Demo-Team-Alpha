@@ -4,7 +4,7 @@ NPM: https://nodejs.org
 
 ## Clone the Project
 
-git clone https://github.com/Ritul-Deshmukh/CRUD-operations-Json_db.git
+git clone https://github.com/Ritul-Deshmukh/Demo-Team-Alpha.git
 
 ## Install Dependencies
 
